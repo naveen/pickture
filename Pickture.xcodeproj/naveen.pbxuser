@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	014CA8770EE5BB0700C70309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PicktureViewController.h */;
+		name = "PicktureViewController.h: 23";
+		rLen = 0;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	014CA8780EE5BB0700C70309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicktureViewController.m */;
+		name = "PicktureViewController.m: 22";
+		rLen = 31;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 48;
+	};
+	014CA8790EE5BB0700C70309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicktureViewController.m */;
+		name = "PicktureViewController.m: 22";
+		rLen = 31;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 48;
+	};
+	014CA87A0EE5BB0700C70309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PicktureViewController.h */;
+		name = "PicktureViewController.h: 23";
+		rLen = 0;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 632;
+		vrLoc = 0;
+	};
+	014CA8800EE5BB0E00C70309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicktureViewController.m */;
+		name = "PicktureViewController.m: 20";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 1319;
+		vrLoc = 0;
+	};
+	01D4514E0EE5934700449320 /* Pickture */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Pickture;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	01D451570EE5936600449320 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	01D451580EE5936600449320 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	01D451670EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PicktureAppDelegate.h */;
+		name = "PicktureAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	01D451680EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PicktureAppDelegate.m */;
+		name = "PicktureAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	01D451690EE5964700449320 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/naveen/Desktop/Pickture/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	01D4516C0EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PicktureAppDelegate.h */;
+		name = "PicktureAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 490;
+		vrLoc = 0;
+	};
+	01D4516D0EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PicktureAppDelegate.m */;
+		name = "PicktureAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	01D4516E0EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PicktureViewController.h */;
+		name = "PicktureViewController.h: 22";
+		rLen = 0;
+		rLoc = 632;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	01D4516F0EE5964700449320 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PicktureViewController.m */;
+		name = "PicktureViewController.m: 42";
+		rLen = 0;
+		rLoc = 1401;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 152;
+	};
+	01D451730EE5964700449320 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/naveen/Desktop/Pickture/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1D3623240D0F684500981E51 /* PicktureAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {576, 563}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 490}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PicktureAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {576, 563}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 628}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Pickture */ = {
+		activeExec = 0;
+		executables = (
+			01D4514E0EE5934700449320 /* Pickture */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PicktureViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {732, 563}}";
+			sepNavSelRange = "{626, 0}";
+			sepNavVisRange = "{0, 632}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PicktureViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {888, 728}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 1319}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 01D4514E0EE5934700449320 /* Pickture */;
+		activeSDKPreference = iphonesimulator2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Pickture */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Pickture */,
+		);
+		codeSenseManager = 01D451580EE5936600449320 /* Code sense */;
+		executables = (
+			01D4514E0EE5934700449320 /* Pickture */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					398,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 249936075;
+			PBXWorkspaceStateSaveDate = 249936075;
+		};
+		perUserProjectItems = {
+			014CA8770EE5BB0700C70309 /* PBXTextBookmark */ = 014CA8770EE5BB0700C70309 /* PBXTextBookmark */;
+			014CA8780EE5BB0700C70309 /* PBXTextBookmark */ = 014CA8780EE5BB0700C70309 /* PBXTextBookmark */;
+			014CA8790EE5BB0700C70309 /* PBXTextBookmark */ = 014CA8790EE5BB0700C70309 /* PBXTextBookmark */;
+			014CA87A0EE5BB0700C70309 /* PBXTextBookmark */ = 014CA87A0EE5BB0700C70309 /* PBXTextBookmark */;
+			014CA8800EE5BB0E00C70309 /* PBXTextBookmark */ = 014CA8800EE5BB0E00C70309 /* PBXTextBookmark */;
+			01D451670EE5964700449320 /* PBXTextBookmark */ = 01D451670EE5964700449320 /* PBXTextBookmark */;
+			01D451680EE5964700449320 /* PBXTextBookmark */ = 01D451680EE5964700449320 /* PBXTextBookmark */;
+			01D451690EE5964700449320 /* PlistBookmark */ = 01D451690EE5964700449320 /* PlistBookmark */;
+			01D4516C0EE5964700449320 /* PBXTextBookmark */ = 01D4516C0EE5964700449320 /* PBXTextBookmark */;
+			01D4516D0EE5964700449320 /* PBXTextBookmark */ = 01D4516D0EE5964700449320 /* PBXTextBookmark */;
+			01D4516E0EE5964700449320 /* PBXTextBookmark */ = 01D4516E0EE5964700449320 /* PBXTextBookmark */;
+			01D4516F0EE5964700449320 /* PBXTextBookmark */ = 01D4516F0EE5964700449320 /* PBXTextBookmark */;
+			01D451730EE5964700449320 /* PlistBookmark */ = 01D451730EE5964700449320 /* PlistBookmark */;
+		};
+		sourceControlManager = 01D451570EE5936600449320 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Pickture_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {576, 563}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 131}, {931, 742}}";
+		};
+	};
+}
